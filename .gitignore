@@ -1,0 +1,12 @@
+# VSCode settings
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+backend/.venv/
+
+# Backend generated data or build artifacts
+backend/arxiv_papers/
+backend/chroma_db/
