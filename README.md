@@ -2,8 +2,6 @@
 
 **AI-powered research assistant that fetches and analyzes ArXiv papers using workflow automation and Retrieval-Augmented Generation (RAG) techniques.**
 
-![Vite + React + Flask + LangChain + LangGraph](public/vite.svg)
-
 ---
 
 ## ✨ Features
