@@ -20,14 +20,18 @@
 ```
 research-search-automation/
 ├── backend/
-│   └── app.py                # Flask app
+│   └── app.py
+    └── Services.py
+    └── requirements.txt             # Flask app
 ├── frontend/
 │   ├── src/
+        └── App.jsx
+        └── Components
+            └── ResearchSec.jsx
 │   └── vite.config.js        # Vite configuration
 ├── public/
 │   └── vite.svg              # Stack banner
 ├── README.md
-└── requirements.txt
 ```
 
 ---
