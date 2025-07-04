@@ -110,11 +110,6 @@ npm run dev
 * **Groq API errors**: Make sure your API key is valid and has sufficient quota.
 * **PDF download issues**: Some ArXiv papers may not have accessible PDFs or may fail to download.
 
----
-
-## 📄 License
-
-[MIT License](LICENSE)
 
 ---
 
@@ -122,5 +117,6 @@ npm run dev
 
 * [ArXiv](https://arxiv.org)
 * [LangChain](https://www.langchain.com)
+* [LangGraph](https://www.langchain.com)
 * [Groq](https://www.groq.com)
 * [ChromaDB](https://www.trychroma.com)
